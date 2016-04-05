@@ -1,0 +1,20 @@
+{
+  "name": "basic_startpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "blueimp-md5": "^2.3.0",
+    "express": "^4.13.4",
+    "install": "^0.6.1",
+    "npm": "^3.8.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
